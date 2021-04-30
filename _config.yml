@@ -1,29 +1,29 @@
 # Your Name or Company
-title: Uni Kravitz
+title: Nikola Savic
 
 # Description of your website. This is used for social sharing.
-description:  The beautiful website of artist, poet, craftsperson, cyclist, and avid juggler, Uni Kravitz.
+description:  Personal website for Nikola Savic.
 
 # A brief blurb about yourself
-content: Nullam id dolor id nibh ultricies vehicula ut id elit. Cras mattis consectetur purus sit amet fermentum. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Cras mattis consectetur purus sit amet fermentum.
+content: I'm a software engineer and technical consultant at ThoughtWorks with an interest in intelligent systems and data engineering.
 
 # Add your social links
 social:
   - platform: github
-    url: https://github.com/brianmaierjr
-  - platform: facebook
-    url: https://facebook.com/brianmaierjr
+    url: https://github.com/nikolasavic
   - platform: twitter
-    url: https://twitter.com/brianmaierjr
+    url: https://twitter.com/not_nikolatesla
   - platform: linkedin
-    url: brianmaierjr
+    url: https://www.linkedin.com/in/nikolasavic
+  - platform: lichess
+    url: https://lichess.org/@/notNikolaTesla
 
 # General settings
 # url: http://brianmaierjr.github.com/uni
 # baseurl: "/uni" 
 markdown: kramdown
-sharing_image: share.jpg
-google_analytics: "UA-58263416-1" # google analytics tracking
+# sharing_image: share.jpg
+# google_analytics: "UA-58263416-1" # google analytics tracking
 
 #### LAYOUT OPTIONS #####
 
@@ -31,4 +31,4 @@ google_analytics: "UA-58263416-1" # google analytics tracking
 half_side: right
 
 # Full layout
-full_text_position: right # left, right or center
+full_text_position: left # left, right or center
